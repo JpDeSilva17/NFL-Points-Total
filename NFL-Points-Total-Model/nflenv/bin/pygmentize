@@ -1,4 +1,4 @@
-#!/Users/jp/NFL/nflenv/bin/python3.11
+#!/Users/jp/UCSD/Math189/NFL-Points-Total/NFL-Points-Total-Model/nflenv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys

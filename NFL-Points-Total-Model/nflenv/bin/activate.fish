@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /Users/jp/NFL/nflenv
+set -gx VIRTUAL_ENV /Users/jp/UCSD/Math189/NFL-Points-Total/NFL-Points-Total-Model/nflenv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

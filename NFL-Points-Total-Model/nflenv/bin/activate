@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV=/Users/jp/NFL/nflenv
+VIRTUAL_ENV=/Users/jp/UCSD/Math189/NFL-Points-Total/NFL-Points-Total-Model/nflenv
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
